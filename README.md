@@ -1,7 +1,8 @@
 # titanium
 
-[//]: # (BEGIN_TF_DOCS)
+An AWS EKS baseline installation curated by Particle41.
 
+[//]: # (BEGIN_TF_DOCS)
 [//]: # (END_TF_DOCS)
 
 ## Authors
